@@ -2,6 +2,9 @@
 This project is the code for the study: SpoNet: Learn to Solve Spatial Optimization Problem with Deep Reinforcement Learning.
 We have established a unified framework for solving p-Median, p-Center, and MCLP.
 
+Haojian Liang, Shaohua Wang*, Huilai Li, Liang Zhou, Hechang Chen, Xueyan Zhang and Xu Chen. SpoNet: Solve Spatial Optimization Problem using Deep Reinforcement Learning for Urban Spatial Decision Analysis. International Journal of Digital Earth. 2023. 10.1080/17538947.2023.2299211. 
+
+
 ## update 2023.10.20
 Added a case study of the emergency location in file ./emergency_location.
 
